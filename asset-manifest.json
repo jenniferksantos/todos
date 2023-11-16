@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/jenniferksantos/todos/static/js/main.187a43cb.js",
-    "index.html": "/jenniferksantos/todos/index.html",
-    "main.187a43cb.js.map": "/jenniferksantos/todos/static/js/main.187a43cb.js.map"
+    "main.js": "/todos/static/js/main.187a43cb.js",
+    "index.html": "/todos/index.html",
+    "main.187a43cb.js.map": "/todos/static/js/main.187a43cb.js.map"
   },
   "entrypoints": [
     "static/js/main.187a43cb.js"
